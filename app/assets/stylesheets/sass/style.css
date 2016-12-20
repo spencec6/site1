@@ -1,0 +1,10 @@
+.wrapper {
+  transition: background 5s;
+  background: blue;
+  width: 99%;
+  height: 99%;
+  position: absolute; }
+  .wrapper.g-hide {
+    background: rgba(255, 0, 0, 0.7); }
+
+/*# sourceMappingURL=style.css.map */
